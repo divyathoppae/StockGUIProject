@@ -1,0 +1,6 @@
+Portfolio Name: Divya
+Number of Stocks: 1
+Stock: GOOG
+Transactions: 2
+BUY,10.0,2024-02-01
+SELL,2.0,2024-02-01

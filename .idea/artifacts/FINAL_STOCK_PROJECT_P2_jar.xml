@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="FINAL_STOCK_PROJECT_P2:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/FINAL_STOCK_PROJECT_P2_jar</output-path>
+    <root id="archive" name="FINAL_STOCK_PROJECT_P2.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/res/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="FINAL_STOCK_PROJECT_P2" />
+    </root>
+  </artifact>
+</component>
